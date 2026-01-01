@@ -6,6 +6,12 @@
       "title": "Welcome to WalkWell",
       "body": "Just walk. Consistently.",
       "minAppVersion": "1.0"
+    },
+    {
+      "id": "trial_day_2_001",
+      "title": "You’re doing great",
+      "body": "Two days of walking already — consistency beats intensity.",
+      "minAppVersion": "1.0"
     }
   ]
 }
