@@ -1,7 +1,6 @@
-## Your Privacy
+Your Privacy
 
 WalkWell is designed to respect your privacy by default. We collect only what is necessary to provide core app functionality. 
-
 
 ## Health Data
 
