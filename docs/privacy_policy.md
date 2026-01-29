@@ -1,29 +1,55 @@
-## Your Privacy
+# StepStead Privacy Policy
 
-WalkWell is designed to respect your privacy by default. We collect only what is necessary to provide core app functionality. 
+Your privacy is important to us. StepStead is designed to work with minimal data collection and to keep your information under your control.
+
+---
 
 ## Health Data
 
-If you grant permission, WalkWell reads step count, walking distance, and activity energy from Apple Health.  
-This data is used only inside the app and is never shared or sold.
+If you choose to grant permission, StepStead uses Apple HealthKit to read the following data:
+- Step count
+- Walking and running distance
+- Active energy burned
+
+This data is used solely to display your activity, progress, and insights within the app.
+
+StepStead does **not** write data back to Apple Health, and health data is **never shared, sold, or used for advertising**.
+
+---
 
 ## Data Storage
 
-Most data is stored locally on your device.  
-Some non-personal content such as motivational messages and health articles may be fetched remotely.
+Most data used by StepStead is stored **locally on your device**.
+
+Some non-personal content, such as motivational messages or health-related articles, may be fetched securely from remote servers. This content does not include personal or identifiable information.
+
+---
 
 ## Analytics & Tracking
 
-WalkWell does not use advertising trackers and does not track you across apps or websites.
+StepStead does **not** use advertising trackers.
+We do **not** track users across apps or websites.
+We do **not** collect personal analytics data for advertising or profiling purposes.
+
+---
 
 ## Payments
 
-All purchases are handled securely by Apple through the App Store.  
-WalkWell does not store payment information.
+All subscriptions and purchases are handled securely by Apple through the App Store.
+StepStead does not collect, store, or have access to your payment information.
 
-## Your Control
+---
 
-You can revoke Health permissions at any time via:
-Settings → Health → Data Access & Devices → WalkWell
+## Your Choices & Control
 
-Deleting the app removes all locally stored data.
+You are always in control of your data.
+
+- Health permissions can be changed at any time via:
+  **Settings → Health → Data Access & Devices → StepStead**
+- Deleting the app will remove all locally stored data from your device.
+
+---
+
+## Contact
+
+If you have any questions about this Privacy Policy, you can contact us through the app’s feedback feature.
